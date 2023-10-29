@@ -1,0 +1,84 @@
+D:\Exchange\Exchange\obj\Debug\net6.0\Exchange.csproj.AssemblyReference.cache
+D:\Exchange\Exchange\obj\Debug\net6.0\Exchange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exchange\Exchange\obj\Debug\net6.0\Exchange.AssemblyInfoInputs.cache
+D:\Exchange\Exchange\obj\Debug\net6.0\Exchange.AssemblyInfo.cs
+D:\Exchange\Exchange\obj\Debug\net6.0\Exchange.csproj.CoreCompileInputs.cache
+D:\Exchange\Exchange\bin\Debug\net6.0\Exchange.exe
+D:\Exchange\Exchange\bin\Debug\net6.0\Exchange.deps.json
+D:\Exchange\Exchange\bin\Debug\net6.0\Exchange.runtimeconfig.json
+D:\Exchange\Exchange\bin\Debug\net6.0\Exchange.dll
+D:\Exchange\Exchange\bin\Debug\net6.0\Exchange.pdb
+D:\Exchange\Exchange\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Exchange\Exchange\obj\Debug\net6.0\Exchange.csproj.CopyComplete
+D:\Exchange\Exchange\obj\Debug\net6.0\Exchange.dll
+D:\Exchange\Exchange\obj\Debug\net6.0\refint\Exchange.dll
+D:\Exchange\Exchange\obj\Debug\net6.0\Exchange.pdb
+D:\Exchange\Exchange\obj\Debug\net6.0\Exchange.genruntimeconfig.cache
+D:\Exchange\Exchange\obj\Debug\net6.0\ref\Exchange.dll
+E:\Exchange\Exchange\bin\Debug\net6.0\Exchange.exe
+E:\Exchange\Exchange\bin\Debug\net6.0\Exchange.deps.json
+E:\Exchange\Exchange\bin\Debug\net6.0\Exchange.runtimeconfig.json
+E:\Exchange\Exchange\bin\Debug\net6.0\Exchange.dll
+E:\Exchange\Exchange\bin\Debug\net6.0\Exchange.pdb
+E:\Exchange\Exchange\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Exchange\Exchange\obj\Debug\net6.0\Exchange.csproj.AssemblyReference.cache
+E:\Exchange\Exchange\obj\Debug\net6.0\Exchange.GeneratedMSBuildEditorConfig.editorconfig
+E:\Exchange\Exchange\obj\Debug\net6.0\Exchange.AssemblyInfoInputs.cache
+E:\Exchange\Exchange\obj\Debug\net6.0\Exchange.AssemblyInfo.cs
+E:\Exchange\Exchange\obj\Debug\net6.0\Exchange.csproj.CoreCompileInputs.cache
+E:\Exchange\Exchange\obj\Debug\net6.0\Exchange.csproj.CopyComplete
+E:\Exchange\Exchange\obj\Debug\net6.0\Exchange.dll
+E:\Exchange\Exchange\obj\Debug\net6.0\refint\Exchange.dll
+E:\Exchange\Exchange\obj\Debug\net6.0\Exchange.pdb
+E:\Exchange\Exchange\obj\Debug\net6.0\Exchange.genruntimeconfig.cache
+E:\Exchange\Exchange\obj\Debug\net6.0\ref\Exchange.dll
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\bin\Debug\net6.0\Exchange.exe
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\bin\Debug\net6.0\Exchange.deps.json
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\bin\Debug\net6.0\Exchange.runtimeconfig.json
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\bin\Debug\net6.0\Exchange.dll
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\bin\Debug\net6.0\Exchange.pdb
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\obj\Debug\net6.0\Exchange.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\obj\Debug\net6.0\Exchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\obj\Debug\net6.0\Exchange.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\obj\Debug\net6.0\Exchange.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\obj\Debug\net6.0\Exchange.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\obj\Debug\net6.0\Exchange.csproj.CopyComplete
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\obj\Debug\net6.0\Exchange.dll
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\obj\Debug\net6.0\refint\Exchange.dll
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\obj\Debug\net6.0\Exchange.pdb
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\obj\Debug\net6.0\Exchange.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Exchange-master\Exchange-master\Exchange\obj\Debug\net6.0\ref\Exchange.dll
+D:\Biswajit Projects Latest\Exchange App\Exchange\bin\Debug\net6.0\Exchange.exe
+D:\Biswajit Projects Latest\Exchange App\Exchange\bin\Debug\net6.0\Exchange.deps.json
+D:\Biswajit Projects Latest\Exchange App\Exchange\bin\Debug\net6.0\Exchange.runtimeconfig.json
+D:\Biswajit Projects Latest\Exchange App\Exchange\bin\Debug\net6.0\Exchange.dll
+D:\Biswajit Projects Latest\Exchange App\Exchange\bin\Debug\net6.0\Exchange.pdb
+D:\Biswajit Projects Latest\Exchange App\Exchange\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Biswajit Projects Latest\Exchange App\Exchange\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Biswajit Projects Latest\Exchange App\Exchange\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Biswajit Projects Latest\Exchange App\Exchange\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+D:\Biswajit Projects Latest\Exchange App\Exchange\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Biswajit Projects Latest\Exchange App\Exchange\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Biswajit Projects Latest\Exchange App\Exchange\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Biswajit Projects Latest\Exchange App\Exchange\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Biswajit Projects Latest\Exchange App\Exchange\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Biswajit Projects Latest\Exchange App\Exchange\obj\Debug\net6.0\Exchange.csproj.AssemblyReference.cache
+D:\Biswajit Projects Latest\Exchange App\Exchange\obj\Debug\net6.0\Exchange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Biswajit Projects Latest\Exchange App\Exchange\obj\Debug\net6.0\Exchange.AssemblyInfoInputs.cache
+D:\Biswajit Projects Latest\Exchange App\Exchange\obj\Debug\net6.0\Exchange.AssemblyInfo.cs
+D:\Biswajit Projects Latest\Exchange App\Exchange\obj\Debug\net6.0\Exchange.csproj.CoreCompileInputs.cache
+D:\Biswajit Projects Latest\Exchange App\Exchange\obj\Debug\net6.0\Exchange.csproj.CopyComplete
+D:\Biswajit Projects Latest\Exchange App\Exchange\obj\Debug\net6.0\Exchange.dll
+D:\Biswajit Projects Latest\Exchange App\Exchange\obj\Debug\net6.0\refint\Exchange.dll
+D:\Biswajit Projects Latest\Exchange App\Exchange\obj\Debug\net6.0\Exchange.pdb
+D:\Biswajit Projects Latest\Exchange App\Exchange\obj\Debug\net6.0\Exchange.genruntimeconfig.cache
+D:\Biswajit Projects Latest\Exchange App\Exchange\obj\Debug\net6.0\ref\Exchange.dll
